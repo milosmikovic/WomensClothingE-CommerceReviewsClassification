@@ -1,0 +1,3 @@
+U ovom dokumentu radim klasifikaciju koriscenjem data seta koji sam licno kreirao,
+izvlacenjem korisnih informacija iz originalnog data seta i na osnovu njega vrsimo klasifikaciju
+da li je artikal recomended ili ne.Prilozeni su svm i knn algoritmi.

@@ -1,0 +1,3 @@
+U ovom dokumentu nalazi se klasifikacija gde koristimo samo komentare a ciljna klasa
+nam je da li je artikal recomended ili not recomended iskljucivo u odnosu na komentare.
+U dokumentu 1.py nalaze se oba algoritma svm i knn.

@@ -1,0 +1,3 @@
+U ovom dokumentu vrsena je klasifikacija gde koriscenjem data seta koji sam licno kreirao,
+predprocesirao podatke i uzeo informacije od koristi iz originalnog pokusavamo da napravimo model koji
+predvidja rejting nekog artikla sa odredjenim ID-jem(ocene od 1 do 5).
